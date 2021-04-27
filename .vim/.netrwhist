@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/local/BMWi_IMAGinE/CM_Projects_ext/ms4/CM_IMAGinE/Data/Script/IMAGinE'
+let g:netrw_dirhist_4='/local/BMWi_IMAGinE/CM_Projects_ext/ms4/CM_IMAGinE/Data/Script'
+let g:netrw_dirhist_3='/local/BMWi_IMAGinE/CM_Projects_ext/ms4/CM_IMAGinE/Data'
+let g:netrw_dirhist_2='/local/BMWi_IMAGinE/CM_Projects_ext/ms4/CM_IMAGinE'
+let g:netrw_dirhist_1='/local/BMWi_IMAGinE/CM_Projects_ext/ms4/CM_IMAGinE/IMAGinE'
+let g:netrw_dirhist_0='/local/BMWi_IMAGinE/CM_Projects_ext/ms4/CM_IMAGinE'
+let g:netrw_dirhist_9='/local/BMWi_IMAGinE/CM_Projects_ext/ms4'
+let g:netrw_dirhist_8='/local/BMWi_IMAGinE/CM_Projects_ext'
+let g:netrw_dirhist_7='/local/BMWi_IMAGinE/CM_Projects_ext/imagine_develop_CM7'
+let g:netrw_dirhist_6='/local/BMWi_IMAGinE/CM_Projects_ext/imagine_develop_CM7/CM_IMAGinE'
